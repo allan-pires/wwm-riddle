@@ -1,0 +1,2818 @@
+[
+    {
+        "riddle": "adsorption",
+        "answers": "gecko"
+    },
+    {
+        "riddle": "aerial",
+        "answers": "dragonfly"
+    },
+    {
+        "riddle": "africa",
+        "answers": "giraffe"
+    },
+    {
+        "riddle": "against the current",
+        "answers": "salmon"
+    },
+    {
+        "riddle": "agaric fungi",
+        "answers": "mushroom"
+    },
+    {
+        "riddle": "agile",
+        "answers": "leopard"
+    },
+    {
+        "riddle": "aim, throw",
+        "answers": "tou hu"
+    },
+    {
+        "riddle": "aiming",
+        "answers": "archery"
+    },
+    {
+        "riddle": "air core",
+        "answers": "water spinach"
+    },
+    {
+        "riddle": "ancient",
+        "answers": "ginkgo"
+    },
+    {
+        "riddle": "antartic animal",
+        "answers": "penguin"
+    },
+    {
+        "riddle": "aoba",
+        "answers": "chinese cabbage"
+    },
+    {
+        "riddle": "apricots",
+        "answers": "apricot blossoms"
+    },
+    {
+        "riddle": "aquaculture",
+        "answers": "buffalo, daffodils"
+    },
+    {
+        "riddle": "aquatic",
+        "answers": "lotus root, calla lily, water spinach, taro"
+    },
+    {
+        "riddle": "arctic",
+        "answers": "walrus"
+    },
+    {
+        "riddle": "aromatic",
+        "answers": "clove, hyacinth"
+    },
+    {
+        "riddle": "arrow",
+        "answers": "tou hu"
+    },
+    {
+        "riddle": "arrow flower",
+        "answers": "amaryllis"
+    },
+    {
+        "riddle": "arrows",
+        "answers": "tou hu"
+    },
+    {
+        "riddle": "art",
+        "answers": "bonsai"
+    },
+    {
+        "riddle": "artemisia",
+        "answers": "garland chrysanthemum"
+    },
+    {
+        "riddle": "at night",
+        "answers": "raccoon"
+    },
+    {
+        "riddle": "auspicious",
+        "answers": "lucky bamboo"
+    },
+    {
+        "riddle": "australia",
+        "answers": "platypus"
+    },
+    {
+        "riddle": "autumn colors",
+        "answers": "maple"
+    },
+    {
+        "riddle": "bait",
+        "answers": "fishhook"
+    },
+    {
+        "riddle": "balance",
+        "answers": "tumbler"
+    },
+    {
+        "riddle": "balance doll",
+        "answers": "tumbler"
+    },
+    {
+        "riddle": "ball juggling",
+        "answers": "sea lions"
+    },
+    {
+        "riddle": "bamboo fish container",
+        "answers": "fish basket"
+    },
+    {
+        "riddle": "bamboo forest",
+        "answers": "bamboo shoots"
+    },
+    {
+        "riddle": "bark",
+        "answers": "cinnamon"
+    },
+    {
+        "riddle": "barking moon",
+        "answers": "dog"
+    },
+    {
+        "riddle": "beach",
+        "answers": "starfish"
+    },
+    {
+        "riddle": "beard",
+        "answers": "schnauzer"
+    },
+    {
+        "riddle": "beating the chest",
+        "answers": "chimpanzees"
+    },
+    {
+        "riddle": "beauty",
+        "answers": "mermaid"
+    },
+    {
+        "riddle": "bedroom",
+        "answers": "bed"
+    },
+    {
+        "riddle": "bedside",
+        "answers": "furniture, dressing table"
+    },
+    {
+        "riddle": "bedside furniture",
+        "answers": "dressing table"
+    },
+    {
+        "riddle": "berry",
+        "answers": "blueberry"
+    },
+    {
+        "riddle": "big eyes",
+        "answers": "deer"
+    },
+    {
+        "riddle": "big fruit",
+        "answers": "fig"
+    },
+    {
+        "riddle": "big grain",
+        "answers": "broad beans"
+    },
+    {
+        "riddle": "big mouth",
+        "answers": "hippopotamus, hippo, bullfrog"
+    },
+    {
+        "riddle": "bites",
+        "answers": "mosquito"
+    },
+    {
+        "riddle": "black",
+        "answers": "hair, watermelon seeds"
+    },
+    {
+        "riddle": "black and white skin",
+        "answers": "penguin"
+    },
+    {
+        "riddle": "black bird",
+        "answers": "crow, turkey"
+    },
+    {
+        "riddle": "black feather",
+        "answers": "turkey"
+    },
+    {
+        "riddle": "black feather, animal",
+        "answers": "crow"
+    },
+    {
+        "riddle": "black feathers",
+        "answers": "turkey"
+    },
+    {
+        "riddle": "black hair",
+        "answers": "polygonum multiflorum"
+    },
+    {
+        "riddle": "black seeds",
+        "answers": "watermelon seeds"
+    },
+    {
+        "riddle": "blade",
+        "answers": "scissors"
+    },
+    {
+        "riddle": "blind",
+        "answers": "mole"
+    },
+    {
+        "riddle": "bloom",
+        "answers": "fireworks"
+    },
+    {
+        "riddle": "blue and black",
+        "answers": "blueberry"
+    },
+    {
+        "riddle": "blue and purple",
+        "answers": "hyacinth, wisteria, catharanthus roseus, morning glory"
+    },
+    {
+        "riddle": "blue and white",
+        "answers": "porcelain"
+    },
+    {
+        "riddle": "blue back",
+        "answers": "tuna"
+    },
+    {
+        "riddle": "blue flowers",
+        "answers": "rosemary"
+    },
+    {
+        "riddle": "blue sky",
+        "answers": "pigeon"
+    },
+    {
+        "riddle": "blueback",
+        "answers": "tuna"
+    },
+    {
+        "riddle": "born on stone",
+        "answers": "dendrobrium"
+    },
+    {
+        "riddle": "bow",
+        "answers": "tou hu"
+    },
+    {
+        "riddle": "boxing",
+        "answers": "tai chi"
+    },
+    {
+        "riddle": "brachiopods",
+        "answers": "squid"
+    },
+    {
+        "riddle": "braided decoration",
+        "answers": "chinese knot"
+    },
+    {
+        "riddle": "breakfast",
+        "answers": "oat"
+    },
+    {
+        "riddle": "broad leaves",
+        "answers": "clivia"
+    },
+    {
+        "riddle": "brocade",
+        "answers": "weaver girl"
+    },
+    {
+        "riddle": "broccoli",
+        "answers": "cauliflower"
+    },
+    {
+        "riddle": "brood parasitism",
+        "answers": "azalea"
+    },
+    {
+        "riddle": "brown fruit",
+        "answers": "durian"
+    },
+    {
+        "riddle": "bud",
+        "answers": "clove, apricot blossom"
+    },
+    {
+        "riddle": "buddha flame",
+        "answers": "calla lilly"
+    },
+    {
+        "riddle": "buds like nails",
+        "answers": "clove"
+    },
+    {
+        "riddle": "bulb",
+        "answers": "onion"
+    },
+    {
+        "riddle": "bushes",
+        "answers": "chameleon"
+    },
+    {
+        "riddle": "buzz",
+        "answers": "fly"
+    },
+    {
+        "riddle": "buzzing",
+        "answers": "bee"
+    },
+    {
+        "riddle": "camel bells",
+        "answers": "alpaca"
+    },
+    {
+        "riddle": "camouflage",
+        "answers": "chameleon, flounder"
+    },
+    {
+        "riddle": "campaign gown",
+        "answers": "armor"
+    },
+    {
+        "riddle": "camphor",
+        "answers": "camphor tree"
+    },
+    {
+        "riddle": "candied",
+        "answers": "haws"
+    },
+    {
+        "riddle": "candy-covered fruit",
+        "answers": "candied haws"
+    },
+    {
+        "riddle": "carrion",
+        "answers": "vulture"
+    },
+    {
+        "riddle": "carry food",
+        "answers": "ant, rats"
+    },
+    {
+        "riddle": "carrying things",
+        "answers": "donkey"
+    },
+    {
+        "riddle": "casual activity",
+        "answers": "fishing"
+    },
+    {
+        "riddle": "catching scales",
+        "answers": "fishing nets"
+    },
+    {
+        "riddle": "cave dwelling",
+        "answers": "bamboo rat"
+    },
+    {
+        "riddle": "celadon",
+        "answers": "porcelain"
+    },
+    {
+        "riddle": "ceramic",
+        "answers": "vase/vases"
+    },
+    {
+        "riddle": "ceramics",
+        "answers": "vase"
+    },
+    {
+        "riddle": "ceremonial gown",
+        "answers": "armor"
+    },
+    {
+        "riddle": "chasing the sun",
+        "answers": "sunflower"
+    },
+    {
+        "riddle": "chew",
+        "answers": "guinea pig"
+    },
+    {
+        "riddle": "chewing bamboo",
+        "answers": "bamboo rat"
+    },
+    {
+        "riddle": "children's toy",
+        "answers": "swing"
+    },
+    {
+        "riddle": "chinese architecture",
+        "answers": "great wall"
+    },
+    {
+        "riddle": "chinese green drinks",
+        "answers": "tea, green tea"
+    },
+    {
+        "riddle": "chinese valentine's day, altair",
+        "answers": "cowherd"
+    },
+    {
+        "riddle": "chinese valentine's day, vega",
+        "answers": "weaver girl"
+    },
+    {
+        "riddle": "chopsticks",
+        "answers": "bamboo shoot"
+    },
+    {
+        "riddle": "christmas",
+        "answers": "reindeer"
+    },
+    {
+        "riddle": "chubby",
+        "answers": "seal"
+    },
+    {
+        "riddle": "cigarette",
+        "answers": "tobacco"
+    },
+    {
+        "riddle": "circling",
+        "answers": "vulture"
+    },
+    {
+        "riddle": "clamshell",
+        "answers": "pearl"
+    },
+    {
+        "riddle": "claws",
+        "answers": "lynx"
+    },
+    {
+        "riddle": "clear water",
+        "answers": "water tank"
+    },
+    {
+        "riddle": "clever",
+        "answers": "shepherd dog"
+    },
+    {
+        "riddle": "cliff",
+        "answers": "golden monkey"
+    },
+    {
+        "riddle": "climb",
+        "answers": "rose/rosa, ivy"
+    },
+    {
+        "riddle": "climbing",
+        "answers": "vine, campsis/trumpet vine"
+    },
+    {
+        "riddle": "cloth",
+        "answers": "belt"
+    },
+    {
+        "riddle": "clumping",
+        "answers": "hydrangea"
+    },
+    {
+        "riddle": "coastal",
+        "answers": "sea lions"
+    },
+    {
+        "riddle": "cocoon",
+        "answers": "butterfly"
+    },
+    {
+        "riddle": "cold blooded",
+        "answers": "snake, crocodile"
+    },
+    {
+        "riddle": "cold water",
+        "answers": "cod"
+    },
+    {
+        "riddle": "cold-blooded",
+        "answers": "crocodile, snake"
+    },
+    {
+        "riddle": "color grading",
+        "answers": "chameleon"
+    },
+    {
+        "riddle": "colorful",
+        "answers": "impatiens, hydrangea, zinnia, tulip"
+    },
+    {
+        "riddle": "combustion",
+        "answers": "candle"
+    },
+    {
+        "riddle": "community",
+        "answers": "hyena"
+    },
+    {
+        "riddle": "competitive sports",
+        "answers": "sumo"
+    },
+    {
+        "riddle": "compound eyes",
+        "answers": "dragonfly"
+    },
+    {
+        "riddle": "condiment",
+        "answers": "soy sauce"
+    },
+    {
+        "riddle": "coniferous",
+        "answers": "pine"
+    },
+    {
+        "riddle": "container",
+        "answers": "sugar bowl, flagon, salt shaker"
+    },
+    {
+        "riddle": "continuous",
+        "answers": "catharantus roseus"
+    },
+    {
+        "riddle": "cool",
+        "answers": "water tank, menthol"
+    },
+    {
+        "riddle": "cotton",
+        "answers": "marshmallow"
+    },
+    {
+        "riddle": "cough relief",
+        "answers": "loquat"
+    },
+    {
+        "riddle": "cover",
+        "answers": "mask, moss"
+    },
+    {
+        "riddle": "cranberries",
+        "answers": "lemon"
+    },
+    {
+        "riddle": "creeping",
+        "answers": "earthworm"
+    },
+    {
+        "riddle": "crescent bean",
+        "answers": "lentils"
+    },
+    {
+        "riddle": "crisp",
+        "answers": "apple"
+    },
+    {
+        "riddle": "crisp and sweet",
+        "answers": "carrot"
+    },
+    {
+        "riddle": "crisp sound",
+        "answers": "wind chime"
+    },
+    {
+        "riddle": "crispy and tender",
+        "answers": "lettuce"
+    },
+    {
+        "riddle": "crop",
+        "answers": "green beans "
+    },
+    {
+        "riddle": "cropping",
+        "answers": "scissors"
+    },
+    {
+        "riddle": "crouch down",
+        "answers": "hedgehog"
+    },
+    {
+        "riddle": "crowing",
+        "answers": "chicken, rooster"
+    },
+    {
+        "riddle": "cruise",
+        "answers": "shark"
+    },
+    {
+        "riddle": "cunning",
+        "answers": "fox"
+    },
+    {
+        "riddle": "cup-shaped",
+        "answers": "tulip"
+    },
+    {
+        "riddle": "curved blade",
+        "answers": "sickle"
+    },
+    {
+        "riddle": "cutting vegetables",
+        "answers": "chopping board"
+    },
+    {
+        "riddle": "dam construction",
+        "answers": "beaver"
+    },
+    {
+        "riddle": "damp",
+        "answers": "moss"
+    },
+    {
+        "riddle": "dark",
+        "answers": "soy sauce"
+    },
+    {
+        "riddle": "dark spots",
+        "answers": "leopard"
+    },
+    {
+        "riddle": "decorate",
+        "answers": "vase, sedan chair"
+    },
+    {
+        "riddle": "deep forest",
+        "answers": "chimpanzee"
+    },
+    {
+        "riddle": "deep love",
+        "answers": "rose"
+    },
+    {
+        "riddle": "deep sea",
+        "answers": "squid, shark, cod"
+    },
+    {
+        "riddle": "deep water",
+        "answers": "electric eel"
+    },
+    {
+        "riddle": "dense",
+        "answers": "rosa"
+    },
+    {
+        "riddle": "dense forest",
+        "answers": "owl"
+    },
+    {
+        "riddle": "desert",
+        "answers": "populus euphratica, scorpion"
+    },
+    {
+        "riddle": "devour",
+        "answers": "catfish"
+    },
+    {
+        "riddle": "diet",
+        "answers": "dishes"
+    },
+    {
+        "riddle": "digging",
+        "answers": "mole"
+    },
+    {
+        "riddle": "digging a hole to hide",
+        "answers": "ostrich"
+    },
+    {
+        "riddle": "diligent",
+        "answers": "ant"
+    },
+    {
+        "riddle": "discharge",
+        "answers": "electric eel"
+    },
+    {
+        "riddle": "discoloration",
+        "answers": "lizard"
+    },
+    {
+        "riddle": "divine bird",
+        "answers": "phoenix"
+    },
+    {
+        "riddle": "diving",
+        "answers": "walrus"
+    },
+    {
+        "riddle": "docile",
+        "answers": "manatee, sika deer, sheep"
+    },
+    {
+        "riddle": "doll",
+        "answers": "tumbler"
+    },
+    {
+        "riddle": "drilling holes",
+        "answers": "groundhog"
+    },
+    {
+        "riddle": "drinks",
+        "answers": "tea"
+    },
+    {
+        "riddle": "drive away",
+        "answers": "shepherd dog"
+    },
+    {
+        "riddle": "drought",
+        "answers": "tequila"
+    },
+    {
+        "riddle": "dyeing nails",
+        "answers": "impatiens"
+    },
+    {
+        "riddle": "early morning",
+        "answers": "morning glory"
+    },
+    {
+        "riddle": "early spring",
+        "answers": "cherry"
+    },
+    {
+        "riddle": "edible",
+        "answers": "broad bean, sheep"
+    },
+    {
+        "riddle": "efficacy",
+        "answers": "ginseng"
+    },
+    {
+        "riddle": "elliptical leaves",
+        "answers": "elm"
+    },
+    {
+        "riddle": "emerald green",
+        "answers": "water spinach"
+    },
+    {
+        "riddle": "emotionally stable",
+        "answers": "capybara"
+    },
+    {
+        "riddle": "essential oils",
+        "answers": "lemon"
+    },
+    {
+        "riddle": "everblooming",
+        "answers": "chinese rose"
+    },
+    {
+        "riddle": "evergreen",
+        "answers": "pine, boxwood"
+    },
+    {
+        "riddle": "face",
+        "answers": "mask"
+    },
+    {
+        "riddle": "facial decoration",
+        "answers": "mask"
+    },
+    {
+        "riddle": "fairy tale",
+        "answers": "mermaid"
+    },
+    {
+        "riddle": "fallen petals",
+        "answers": "cherry blossoms"
+    },
+    {
+        "riddle": "fan blades",
+        "answers": "ginkgo"
+    },
+    {
+        "riddle": "fan-blades",
+        "answers": "ginkgo"
+    },
+    {
+        "riddle": "fan-shaped leaves",
+        "answers": "clivia"
+    },
+    {
+        "riddle": "far sighted",
+        "answers": "giraffe"
+    },
+    {
+        "riddle": "farm",
+        "answers": "turkey"
+    },
+    {
+        "riddle": "farming",
+        "answers": "ox, buffalo"
+    },
+    {
+        "riddle": "farming and weaving",
+        "answers": "cowherd"
+    },
+    {
+        "riddle": "fasten",
+        "answers": "belt"
+    },
+    {
+        "riddle": "female general",
+        "answers": "mulan"
+    },
+    {
+        "riddle": "festive food",
+        "answers": "moon cake"
+    },
+    {
+        "riddle": "fiber",
+        "answers": "oat"
+    },
+    {
+        "riddle": "field",
+        "answers": "corn, maize, rabbit, garland chrysanthemum"
+    },
+    {
+        "riddle": "fiery red",
+        "answers": "fox"
+    },
+    {
+        "riddle": "filamentous flower",
+        "answers": "chrysanthemum"
+    },
+    {
+        "riddle": "fin",
+        "answers": "shark"
+    },
+    {
+        "riddle": "fish tail",
+        "answers": "mermaid"
+    },
+    {
+        "riddle": "fishing",
+        "answers": "otter, cormorant, fish basket, fishing rod"
+    },
+    {
+        "riddle": "fixed",
+        "answers": "nail"
+    },
+    {
+        "riddle": "flame",
+        "answers": "phoenix"
+    },
+    {
+        "riddle": "flapping wings",
+        "answers": "cricket"
+    },
+    {
+        "riddle": "flat",
+        "answers": "iron"
+    },
+    {
+        "riddle": "flat mouth",
+        "answers": "platypus"
+    },
+    {
+        "riddle": "flat tail",
+        "answers": "beaver"
+    },
+    {
+        "riddle": "flaunting",
+        "answers": "peacock, peafowl"
+    },
+    {
+        "riddle": "flight",
+        "answers": "firefly"
+    },
+    {
+        "riddle": "floating catkins",
+        "answers": "poplar"
+    },
+    {
+        "riddle": "flower arrangement",
+        "answers": "vase"
+    },
+    {
+        "riddle": "flower arrow",
+        "answers": "amaryllis"
+    },
+    {
+        "riddle": "flower filament",
+        "answers": "chrysanthemum"
+    },
+    {
+        "riddle": "flowers",
+        "answers": "peony, butterfly, daffodils, bee"
+    },
+    {
+        "riddle": "flowers before leaves",
+        "answers": "plum blossom"
+    },
+    {
+        "riddle": "flowers in the water",
+        "answers": "daffodils"
+    },
+    {
+        "riddle": "fluttering",
+        "answers": "willow"
+    },
+    {
+        "riddle": "flying",
+        "answers": "antelope, cherry blossoms, flying, dragonfly, butterfly"
+    },
+    {
+        "riddle": "flying catkins",
+        "answers": "poplar"
+    },
+    {
+        "riddle": "footwear",
+        "answers": "boots"
+    },
+    {
+        "riddle": "foraging",
+        "answers": "chicken"
+    },
+    {
+        "riddle": "forest",
+        "answers": "loriot, sika deer, oriole, bamboo rat, porcupine"
+    },
+    {
+        "riddle": "forests",
+        "answers": "fox, bear, bamboo rat"
+    },
+    {
+        "riddle": "four seasons",
+        "answers": "catharanthus roseus, ivy, chinese rose, cypress"
+    },
+    {
+        "riddle": "four seasons flowers",
+        "answers": "chinese rose"
+    },
+    {
+        "riddle": "fragrance",
+        "answers": "patchouli"
+    },
+    {
+        "riddle": "fresh and tender",
+        "answers": "bamboo shoots"
+    },
+    {
+        "riddle": "fresh fragrance",
+        "answers": "jasmine, garland chrysanthemum"
+    },
+    {
+        "riddle": "fresh water",
+        "answers": "tilapia"
+    },
+    {
+        "riddle": "freshwater",
+        "answers": "tilapia"
+    },
+    {
+        "riddle": "fruit",
+        "answers": "olives, tangerine, apple"
+    },
+    {
+        "riddle": "fruit acid",
+        "answers": "plum blossom "
+    },
+    {
+        "riddle": "fruit flower",
+        "answers": "peach blossom"
+    },
+    {
+        "riddle": "fruitful results",
+        "answers": "pear tree"
+    },
+    {
+        "riddle": "fruits with hard thorns",
+        "answers": "durian"
+    },
+    {
+        "riddle": "full",
+        "answers": "rice jar"
+    },
+    {
+        "riddle": "furniture with mirrors",
+        "answers": "dressing table"
+    },
+    {
+        "riddle": "gallop",
+        "answers": "horse"
+    },
+    {
+        "riddle": "game",
+        "answers": "football, hide and seek"
+    },
+    {
+        "riddle": "gardening tool",
+        "answers": "rake"
+    },
+    {
+        "riddle": "garlic leaves",
+        "answers": "garlic scape"
+    },
+    {
+        "riddle": "gel",
+        "answers": "aloe vera"
+    },
+    {
+        "riddle": "general",
+        "answers": "mulan"
+    },
+    {
+        "riddle": "giant fruit",
+        "answers": "jackfruit"
+    },
+    {
+        "riddle": "golden and round",
+        "answers": "tangerine"
+    },
+    {
+        "riddle": "golden stigma",
+        "answers": "corn"
+    },
+    {
+        "riddle": "gorgeous",
+        "answers": "clown fish"
+    },
+    {
+        "riddle": "grains",
+        "answers": "wheat"
+    },
+    {
+        "riddle": "grass",
+        "answers": "cricket"
+    },
+    {
+        "riddle": "grass nest",
+        "answers": "guinea pig"
+    },
+    {
+        "riddle": "grassland",
+        "answers": "antelope, deer, zebra, horse, hedgehog, football, groundhog, shepherd dog, horse riding, ostrich"
+    },
+    {
+        "riddle": "grasslands",
+        "answers": "horse, ostrich, deer, hedgehog, football, antelope, groundhog"
+    },
+    {
+        "riddle": "grateful",
+        "answers": "turkey"
+    },
+    {
+        "riddle": "gray",
+        "answers": "schnauzer, snow leopard"
+    },
+    {
+        "riddle": "gray birds",
+        "answers": "azalea"
+    },
+    {
+        "riddle": "great strength",
+        "answers": "bear"
+    },
+    {
+        "riddle": "green",
+        "answers": "cypress, evergreen"
+    },
+    {
+        "riddle": "green bamboo shoots",
+        "answers": "lettuce"
+    },
+    {
+        "riddle": "green crown",
+        "answers": "camphor tree"
+    },
+    {
+        "riddle": "green eyes",
+        "answers": "fly"
+    },
+    {
+        "riddle": "green festival",
+        "answers": "lucky bamboo"
+    },
+    {
+        "riddle": "green fruit",
+        "answers": "cantaloupe"
+    },
+    {
+        "riddle": "green leaves",
+        "answers": "spinach, hardy banana, boxwood, mint, menthol, coriander"
+    },
+    {
+        "riddle": "green plants",
+        "answers": "clivia"
+    },
+    {
+        "riddle": "green shade",
+        "answers": "elm, banyan tree"
+    },
+    {
+        "riddle": "green steel",
+        "answers": "sword"
+    },
+    {
+        "riddle": "green stem",
+        "answers": "aloe vera, tomato, pear tree, peach, garlic sprouts, celery"
+    },
+    {
+        "riddle": "green vegetables",
+        "answers": "chinese cabbage"
+    },
+    {
+        "riddle": "green velvet",
+        "answers": "moss"
+    },
+    {
+        "riddle": "greenery",
+        "answers": "ivy"
+    },
+    {
+        "riddle": "group attack",
+        "answers": "piranhas"
+    },
+    {
+        "riddle": "growing in pairs",
+        "answers": "cherry"
+    },
+    {
+        "riddle": "hair",
+        "answers": "comb"
+    },
+    {
+        "riddle": "hanging",
+        "answers": "wisteria"
+    },
+    {
+        "riddle": "hanging sleep",
+        "answers": "sloths"
+    },
+    {
+        "riddle": "hanging toy",
+        "answers": "swing"
+    },
+    {
+        "riddle": "hard shell",
+        "answers": "sea turtles"
+    },
+    {
+        "riddle": "hard thorns",
+        "answers": "porcupine"
+    },
+    {
+        "riddle": "haricot vert",
+        "answers": "green beans"
+    },
+    {
+        "riddle": "harunobu",
+        "answers": "hyacinth"
+    },
+    {
+        "riddle": "harvest",
+        "answers": "sickle, wheat"
+    },
+    {
+        "riddle": "hawthorn",
+        "answers": "tanghulu, candied haws"
+    },
+    {
+        "riddle": "head guard",
+        "answers": "helmet"
+    },
+    {
+        "riddle": "heat relief",
+        "answers": "watermelon"
+    },
+    {
+        "riddle": "heating",
+        "answers": "iron"
+    },
+    {
+        "riddle": "heavy",
+        "answers": "hippo"
+    },
+    {
+        "riddle": "herbivorous",
+        "answers": "yak"
+    },
+    {
+        "riddle": "herbs",
+        "answers": "rosemary"
+    },
+    {
+        "riddle": "hercules",
+        "answers": "sumo"
+    },
+    {
+        "riddle": "hibernation",
+        "answers": "groundhog, bear"
+    },
+    {
+        "riddle": "hidden",
+        "answers": "scorpion"
+    },
+    {
+        "riddle": "hidden flower",
+        "answers": "fig"
+    },
+    {
+        "riddle": "hide",
+        "answers": "hide and seek"
+    },
+    {
+        "riddle": "historic sites",
+        "answers": "great wall"
+    },
+    {
+        "riddle": "hit, bull's eye",
+        "answers": "archery"
+    },
+    {
+        "riddle": "hold food",
+        "answers": "dishes"
+    },
+    {
+        "riddle": "holds food",
+        "answers": "dishes"
+    },
+    {
+        "riddle": "holes",
+        "answers": "lotus root"
+    },
+    {
+        "riddle": "hollow",
+        "answers": "celery"
+    },
+    {
+        "riddle": "honey",
+        "answers": "bee"
+    },
+    {
+        "riddle": "hook",
+        "answers": "fishhook"
+    },
+    {
+        "riddle": "housekeeping",
+        "answers": "dog"
+    },
+    {
+        "riddle": "houskeeping",
+        "answers": "dog"
+    },
+    {
+        "riddle": "huge",
+        "answers": "whale"
+    },
+    {
+        "riddle": "hunting",
+        "answers": "lynx"
+    },
+    {
+        "riddle": "hybridization",
+        "answers": "mule"
+    },
+    {
+        "riddle": "ice surface",
+        "answers": "seal"
+    },
+    {
+        "riddle": "ignite",
+        "answers": "fireworks"
+    },
+    {
+        "riddle": "illumination",
+        "answers": "candle, lantern"
+    },
+    {
+        "riddle": "in the sea",
+        "answers": "clownfish, pufferfish"
+    },
+    {
+        "riddle": "indifferent gaze",
+        "answers": "snake"
+    },
+    {
+        "riddle": "indoor",
+        "answers": "schnauzer"
+    },
+    {
+        "riddle": "inflate",
+        "answers": "pufferfish"
+    },
+    {
+        "riddle": "ink jet",
+        "answers": "squid"
+    },
+    {
+        "riddle": "iroha",
+        "answers": "parrot"
+    },
+    {
+        "riddle": "iron",
+        "answers": "locks, sickle"
+    },
+    {
+        "riddle": "ironing",
+        "answers": "iron"
+    },
+    {
+        "riddle": "ishita",
+        "answers": "centipede"
+    },
+    {
+        "riddle": "jade",
+        "answers": "bracelet"
+    },
+    {
+        "riddle": "japan",
+        "answers": "cherry blossoms"
+    },
+    {
+        "riddle": "jewelry",
+        "answers": "necklace, pearl"
+    },
+    {
+        "riddle": "join the army",
+        "answers": "mulan"
+    },
+    {
+        "riddle": "juicy",
+        "answers": "aloe vera, tomato, pear tree, peach"
+    },
+    {
+        "riddle": "jump",
+        "answers": "rabbit, golden monkey, bullfrog"
+    },
+    {
+        "riddle": "jungle",
+        "answers": "elephant, leopard"
+    },
+    {
+        "riddle": "keep warm",
+        "answers": "boots"
+    },
+    {
+        "riddle": "kiln fire",
+        "answers": "porcelain"
+    },
+    {
+        "riddle": "kitchen",
+        "answers": "chopping board"
+    },
+    {
+        "riddle": "land and sea",
+        "answers": "turtle"
+    },
+    {
+        "riddle": "large flowers",
+        "answers": "peony"
+    },
+    {
+        "riddle": "large particles",
+        "answers": "rice"
+    },
+    {
+        "riddle": "leaf",
+        "answers": "tobacco"
+    },
+    {
+        "riddle": "leaping waves",
+        "answers": "dolphin"
+    },
+    {
+        "riddle": "leather",
+        "answers": "boot/boots"
+    },
+    {
+        "riddle": "leaves as big as fans",
+        "answers": "hardy banana"
+    },
+    {
+        "riddle": "leguminosae",
+        "answers": "broad bean"
+    },
+    {
+        "riddle": "licking claws",
+        "answers": "cat"
+    },
+    {
+        "riddle": "lifting",
+        "answers": "sedan chair"
+    },
+    {
+        "riddle": "light and shadow",
+        "answers": "lantern"
+    },
+    {
+        "riddle": "light point",
+        "answers": "firefly"
+    },
+    {
+        "riddle": "long and pointed",
+        "answers": "chili"
+    },
+    {
+        "riddle": "long ears",
+        "answers": "rabbit"
+    },
+    {
+        "riddle": "long green stems",
+        "answers": "garlic sprout"
+    },
+    {
+        "riddle": "long horn",
+        "answers": "longicorn"
+    },
+    {
+        "riddle": "long jump",
+        "answers": "toad"
+    },
+    {
+        "riddle": "long legs",
+        "answers": "flamingo"
+    },
+    {
+        "riddle": "long neck",
+        "answers": "giraffe"
+    },
+    {
+        "riddle": "long strips",
+        "answers": "cucumber, bow and arrow"
+    },
+    {
+        "riddle": "long tail",
+        "answers": "peacock, lizard, mouse"
+    },
+    {
+        "riddle": "long teeth",
+        "answers": "walrus"
+    },
+    {
+        "riddle": "long-legged birds",
+        "answers": "flamingo"
+    },
+    {
+        "riddle": "longevity",
+        "answers": "turtle/sea turtle, ginkgo"
+    },
+    {
+        "riddle": "longjump",
+        "answers": "toad"
+    },
+    {
+        "riddle": "loosen the soil",
+        "answers": "earthworm, rake"
+    },
+    {
+        "riddle": "lotus",
+        "answers": "roots, lotus root"
+    },
+    {
+        "riddle": "love",
+        "answers": "rose"
+    },
+    {
+        "riddle": "loyalty",
+        "answers": "dog"
+    },
+    {
+        "riddle": "lurk",
+        "answers": "crocodile"
+    },
+    {
+        "riddle": "lush",
+        "answers": "banyan tree"
+    },
+    {
+        "riddle": "mail delivery transfer station",
+        "answers": "post station"
+    },
+    {
+        "riddle": "martial arts, boxing",
+        "answers": "tai chi"
+    },
+    {
+        "riddle": "mask",
+        "answers": "raccoon"
+    },
+    {
+        "riddle": "may flowers",
+        "answers": "peony"
+    },
+    {
+        "riddle": "mayflower",
+        "answers": "peony flower"
+    },
+    {
+        "riddle": "medicinal",
+        "answers": "licorice, ganoderma lucidum, polygonum multiforum, camphor tree, peony flowers"
+    },
+    {
+        "riddle": "medicinal and food",
+        "answers": "wolfberry"
+    },
+    {
+        "riddle": "medicinal materials",
+        "answers": "plantain"
+    },
+    {
+        "riddle": "medicine and food",
+        "answers": "wolfberry, goji"
+    },
+    {
+        "riddle": "medicine material",
+        "answers": "plantain"
+    },
+    {
+        "riddle": "medium-sized",
+        "answers": "samoyed"
+    },
+    {
+        "riddle": "melee",
+        "answers": "dagger"
+    },
+    {
+        "riddle": "meow",
+        "answers": "cat"
+    },
+    {
+        "riddle": "messenger",
+        "answers": "pigeon"
+    },
+    {
+        "riddle": "metal",
+        "answers": "scissors, nail, fishhook, armor"
+    },
+    {
+        "riddle": "mid-autumn festival",
+        "answers": "moon cake"
+    },
+    {
+        "riddle": "migration",
+        "answers": "salmon, reindeer"
+    },
+    {
+        "riddle": "milky way",
+        "answers": "weaver girl,cowherd"
+    },
+    {
+        "riddle": "molt",
+        "answers": "snake"
+    },
+    {
+        "riddle": "moon-viewing food",
+        "answers": "moon cake"
+    },
+    {
+        "riddle": "mountainous areas",
+        "answers": "donkey"
+    },
+    {
+        "riddle": "mouse catching",
+        "answers": "cat"
+    },
+    {
+        "riddle": "mud",
+        "answers": "toad"
+    },
+    {
+        "riddle": "mud hole",
+        "answers": "eel"
+    },
+    {
+        "riddle": "multi-legged",
+        "answers": "centipede"
+    },
+    {
+        "riddle": "multicolor",
+        "answers": "impatiens, perennial flower, rosa"
+    },
+    {
+        "riddle": "multiplayer",
+        "answers": "hide and seek, football"
+    },
+    {
+        "riddle": "mythical animal",
+        "answers": "phoenix"
+    },
+    {
+        "riddle": "mythical animals",
+        "answers": "phoenix"
+    },
+    {
+        "riddle": "neckwear",
+        "answers": "necklace"
+    },
+    {
+        "riddle": "neighing",
+        "answers": "horse"
+    },
+    {
+        "riddle": "nest in water",
+        "answers": "otter"
+    },
+    {
+        "riddle": "net",
+        "answers": "fishing nets"
+    },
+    {
+        "riddle": "netherlands",
+        "answers": "tulip"
+    },
+    {
+        "riddle": "night",
+        "answers": "mosquito, mouse, raccoon"
+    },
+    {
+        "riddle": "night sky",
+        "answers": "fireworks"
+    },
+    {
+        "riddle": "night walk",
+        "answers": "owl"
+    },
+    {
+        "riddle": "nourish",
+        "answers": "mushroom"
+    },
+    {
+        "riddle": "nourishing",
+        "answers": "dendrobium, wolfberry, ginseng"
+    },
+    {
+        "riddle": "nucleolus",
+        "answers": "apricot"
+    },
+    {
+        "riddle": "nut",
+        "answers": "peanut"
+    },
+    {
+        "riddle": "nutrition",
+        "answers": "spinach, oat, menthol, oat meal"
+    },
+    {
+        "riddle": "ocean",
+        "answers": "dolphin, tuna, whale, sea turtles, manatee, pearl"
+    },
+    {
+        "riddle": "oil",
+        "answers": "olives"
+    },
+    {
+        "riddle": "oil fragrance",
+        "answers": "olives"
+    },
+    {
+        "riddle": "on the ground",
+        "answers": "ant"
+    },
+    {
+        "riddle": "orange-red",
+        "answers": "campsis"
+    },
+    {
+        "riddle": "orangutans",
+        "answers": "chimpanzees"
+    },
+    {
+        "riddle": "ornamental",
+        "answers": "begonia"
+    },
+    {
+        "riddle": "paddy",
+        "answers": "frog"
+    },
+    {
+        "riddle": "paddy fields",
+        "answers": "rice"
+    },
+    {
+        "riddle": "palmate",
+        "answers": "maple"
+    },
+    {
+        "riddle": "palmate leaves",
+        "answers": "chinese parasol"
+    },
+    {
+        "riddle": "paper",
+        "answers": "books"
+    },
+    {
+        "riddle": "parenting",
+        "answers": "seahorse"
+    },
+    {
+        "riddle": "park",
+        "answers": "swing"
+    },
+    {
+        "riddle": "pasture",
+        "answers": "sheep, ox"
+    },
+    {
+        "riddle": "patio",
+        "answers": "chicken"
+    },
+    {
+        "riddle": "peace",
+        "answers": "pigeon"
+    },
+    {
+        "riddle": "peace, blessing",
+        "answers": "amulet"
+    },
+    {
+        "riddle": "peak",
+        "answers": "eagle"
+    },
+    {
+        "riddle": "pentagon",
+        "answers": "starfish"
+    },
+    {
+        "riddle": "peony, buttlerfly, daffodils",
+        "answers": "dendrobium, ginseng"
+    },
+    {
+        "riddle": "pepper",
+        "answers": "chili"
+    },
+    {
+        "riddle": "phoenix",
+        "answers": "chinese parasol"
+    },
+    {
+        "riddle": "physical",
+        "answers": "dagger"
+    },
+    {
+        "riddle": "picnic",
+        "answers": "compass"
+    },
+    {
+        "riddle": "pimple",
+        "answers": "toad"
+    },
+    {
+        "riddle": "pink",
+        "answers": "apricot blossoms"
+    },
+    {
+        "riddle": "pink flower",
+        "answers": "peach/peach blossom, begonia"
+    },
+    {
+        "riddle": "plant-based",
+        "answers": "tea"
+    },
+    {
+        "riddle": "planting",
+        "answers": "garlic sprouts, tobacco"
+    },
+    {
+        "riddle": "plateau",
+        "answers": "yak"
+    },
+    {
+        "riddle": "plateau hunter",
+        "answers": "snow leopard"
+    },
+    {
+        "riddle": "playing in the water",
+        "answers": "duck"
+    },
+    {
+        "riddle": "pod",
+        "answers": "lentils"
+    },
+    {
+        "riddle": "pointed",
+        "answers": "nail"
+    },
+    {
+        "riddle": "pointer",
+        "answers": "compass"
+    },
+    {
+        "riddle": "poisonous",
+        "answers": "oleander"
+    },
+    {
+        "riddle": "pole weapon",
+        "answers": "spear"
+    },
+    {
+        "riddle": "pond",
+        "answers": "duck, tadpole, bullfrog"
+    },
+    {
+        "riddle": "position",
+        "answers": "compass"
+    },
+    {
+        "riddle": "potato",
+        "answers": "sweet potato"
+    },
+    {
+        "riddle": "potted plant",
+        "answers": "coriander"
+    },
+    {
+        "riddle": "poultry",
+        "answers": "rooster"
+    },
+    {
+        "riddle": "pouring wine",
+        "answers": "flagon"
+    },
+    {
+        "riddle": "pray for blessings",
+        "answers": "amulet"
+    },
+    {
+        "riddle": "precious",
+        "answers": "ganoderma lucidum, reishi"
+    },
+    {
+        "riddle": "primates",
+        "answers": "golden monkey"
+    },
+    {
+        "riddle": "proboscis",
+        "answers": "elephant"
+    },
+    {
+        "riddle": "protection",
+        "answers": "helmet, armor"
+    },
+    {
+        "riddle": "purple",
+        "answers": "patchouli, eggplant"
+    },
+    {
+        "riddle": "purple fruit",
+        "answers": "plum tree"
+    },
+    {
+        "riddle": "purple skin",
+        "answers": "onion"
+    },
+    {
+        "riddle": "quack",
+        "answers": "frog, duck"
+    },
+    {
+        "riddle": "rabbit",
+        "answers": "carrot"
+    },
+    {
+        "riddle": "rain",
+        "answers": "hardy banana"
+    },
+    {
+        "riddle": "reading",
+        "answers": "books"
+    },
+    {
+        "riddle": "red",
+        "answers": "chili"
+    },
+    {
+        "riddle": "red all over",
+        "answers": "flamingo"
+    },
+    {
+        "riddle": "red and white",
+        "answers": "oleander"
+    },
+    {
+        "riddle": "red decoration",
+        "answers": "chinese knot"
+    },
+    {
+        "riddle": "red feather",
+        "answers": "crested ibis"
+    },
+    {
+        "riddle": "red fruit",
+        "answers": "cherry, wolfberry, tomato"
+    },
+    {
+        "riddle": "red leaves",
+        "answers": "maple"
+    },
+    {
+        "riddle": "red pattern",
+        "answers": "seal"
+    },
+    {
+        "riddle": "red rope knot",
+        "answers": "chinese knot"
+    },
+    {
+        "riddle": "red-crowned poultry",
+        "answers": "rooster"
+    },
+    {
+        "riddle": "refreshing",
+        "answers": "menthol, cucumber"
+    },
+    {
+        "riddle": "regeneration",
+        "answers": "starfish"
+    },
+    {
+        "riddle": "reins, running",
+        "answers": "horse riding"
+    },
+    {
+        "riddle": "relieve heat",
+        "answers": "patchouli"
+    },
+    {
+        "riddle": "rhizome",
+        "answers": "polygonum multiflorum"
+    },
+    {
+        "riddle": "rice",
+        "answers": "buffalo, Rice Jar"
+    },
+    {
+        "riddle": "rice storage",
+        "answers": "rice jar"
+    },
+    {
+        "riddle": "rich",
+        "answers": "jackfruit"
+    },
+    {
+        "riddle": "ring",
+        "answers": "bracelet"
+    },
+    {
+        "riddle": "river",
+        "answers": "hippo, fishing, beaver"
+    },
+    {
+        "riddle": "rivers",
+        "answers": "catfish"
+    },
+    {
+        "riddle": "roadside",
+        "answers": "plantain"
+    },
+    {
+        "riddle": "rock wall",
+        "answers": "dendrobrium"
+    },
+    {
+        "riddle": "rod-shaped",
+        "answers": "cucumber"
+    },
+    {
+        "riddle": "rod, bait",
+        "answers": "fishing"
+    },
+    {
+        "riddle": "rodents",
+        "answers": "guinea pig"
+    },
+    {
+        "riddle": "roll",
+        "answers": "sea lions"
+    },
+    {
+        "riddle": "root feeding",
+        "answers": "porcupine"
+    },
+    {
+        "riddle": "roots",
+        "answers": "licorice"
+    },
+    {
+        "riddle": "rosy",
+        "answers": "apple"
+    },
+    {
+        "riddle": "rubber band toys",
+        "answers": "slingshot"
+    },
+    {
+        "riddle": "rubber bands",
+        "answers": "slingshot"
+    },
+    {
+        "riddle": "rubbing",
+        "answers": "seal"
+    },
+    {
+        "riddle": "rubbish",
+        "answers": "fly"
+    },
+    {
+        "riddle": "rugged",
+        "answers": "mule"
+    },
+    {
+        "riddle": "rumination",
+        "answers": "ox"
+    },
+    {
+        "riddle": "run",
+        "answers": "zebra, ostrich, horse riding"
+    },
+    {
+        "riddle": "run fast",
+        "answers": "antelope"
+    },
+    {
+        "riddle": "run quickly",
+        "answers": "centipede"
+    },
+    {
+        "riddle": "safety",
+        "answers": "amulet, locks"
+    },
+    {
+        "riddle": "saltwater",
+        "answers": "pacific saury"
+    },
+    {
+        "riddle": "salty",
+        "answers": "salt shaker"
+    },
+    {
+        "riddle": "sand",
+        "answers": "hourglass"
+    },
+    {
+        "riddle": "sauce-flavored",
+        "answers": "soy sauce"
+    },
+    {
+        "riddle": "scabbard",
+        "answers": "sword"
+    },
+    {
+        "riddle": "scaleless",
+        "answers": "eel"
+    },
+    {
+        "riddle": "seabed",
+        "answers": "flounder"
+    },
+    {
+        "riddle": "search",
+        "answers": "raccoon"
+    },
+    {
+        "riddle": "seaside",
+        "answers": "cormorant"
+    },
+    {
+        "riddle": "seasoning",
+        "answers": "garlic scape, coriander, salt shaker"
+    },
+    {
+        "riddle": "seaweed",
+        "answers": "seahorse"
+    },
+    {
+        "riddle": "seed",
+        "answers": "watermelon seeds"
+    },
+    {
+        "riddle": "seeds",
+        "answers": "watermelon seeds"
+    },
+    {
+        "riddle": "self-defense",
+        "answers": "skunk"
+    },
+    {
+        "riddle": "serving wine",
+        "answers": "flagon"
+    },
+    {
+        "riddle": "shade-tolerant",
+        "answers": "evergreen"
+    },
+    {
+        "riddle": "shallow sea",
+        "answers": "manatee"
+    },
+    {
+        "riddle": "sharp eyes",
+        "answers": "eagle"
+    },
+    {
+        "riddle": "sharp teeth",
+        "answers": "piranhas"
+    },
+    {
+        "riddle": "shell",
+        "answers": "pearl, peanut"
+    },
+    {
+        "riddle": "shooting toys",
+        "answers": "slingshot"
+    },
+    {
+        "riddle": "shooting weapons",
+        "answers": "bow and arrow"
+    },
+    {
+        "riddle": "short",
+        "answers": "zinnia"
+    },
+    {
+        "riddle": "short weapon",
+        "answers": "dagger"
+    },
+    {
+        "riddle": "shrub",
+        "answers": "oleander, skunk"
+    },
+    {
+        "riddle": "shrubs",
+        "answers": "evergreen, oleander"
+    },
+    {
+        "riddle": "shut",
+        "answers": "locks"
+    },
+    {
+        "riddle": "side-lying",
+        "answers": "flounder"
+    },
+    {
+        "riddle": "silk pull",
+        "answers": "fishing rod"
+    },
+    {
+        "riddle": "silver",
+        "answers": "pacific saury"
+    },
+    {
+        "riddle": "singing in the woods",
+        "answers": "oriole"
+    },
+    {
+        "riddle": "single tree",
+        "answers": "banyan tree"
+    },
+    {
+        "riddle": "sleep",
+        "answers": "bed"
+    },
+    {
+        "riddle": "slender",
+        "answers": "mosquito, cormorants, aloe vera"
+    },
+    {
+        "riddle": "slender fish",
+        "answers": "pacific saury"
+    },
+    {
+        "riddle": "slide",
+        "answers": "electric eel"
+    },
+    {
+        "riddle": "slippery",
+        "answers": "eel"
+    },
+    {
+        "riddle": "slow",
+        "answers": "sloth/sloths"
+    },
+    {
+        "riddle": "small",
+        "answers": "blueberry, plum tree"
+    },
+    {
+        "riddle": "small grains",
+        "answers": "green beans, mung beans"
+    },
+    {
+        "riddle": "small particles",
+        "answers": "wheat"
+    },
+    {
+        "riddle": "smiley face",
+        "answers": "sunflower"
+    },
+    {
+        "riddle": "snake",
+        "answers": "whip"
+    },
+    {
+        "riddle": "snow",
+        "answers": "lynx, samoyed"
+    },
+    {
+        "riddle": "snow mountain",
+        "answers": "snow leopard"
+    },
+    {
+        "riddle": "snowfield",
+        "answers": "reindeer"
+    },
+    {
+        "riddle": "soar",
+        "answers": "eagle"
+    },
+    {
+        "riddle": "social",
+        "answers": "hyena, capybara, elephant"
+    },
+    {
+        "riddle": "soft",
+        "answers": "loquat"
+    },
+    {
+        "riddle": "soft and sticky",
+        "answers": "eggplant"
+    },
+    {
+        "riddle": "soft food",
+        "answers": "marshmallow"
+    },
+    {
+        "riddle": "soft strength",
+        "answers": "whip"
+    },
+    {
+        "riddle": "soft strip",
+        "answers": "willow, meadow"
+    },
+    {
+        "riddle": "soil",
+        "answers": "carrot, sweet potato"
+    },
+    {
+        "riddle": "solid",
+        "answers": "chopping board"
+    },
+    {
+        "riddle": "south america",
+        "answers": "alpaca"
+    },
+    {
+        "riddle": "spawning",
+        "answers": "salmon"
+    },
+    {
+        "riddle": "speaking",
+        "answers": "parrot"
+    },
+    {
+        "riddle": "spherical",
+        "answers": "fig, cauliflower"
+    },
+    {
+        "riddle": "spices",
+        "answers": "rosemary, cinnamon"
+    },
+    {
+        "riddle": "spicy",
+        "answers": "onion, chili"
+    },
+    {
+        "riddle": "spikes",
+        "answers": "chinese rose, hedgehog"
+    },
+    {
+        "riddle": "spiritual roots",
+        "answers": "ginseng"
+    },
+    {
+        "riddle": "spot",
+        "answers": "deer, sika deer, tilapia"
+    },
+    {
+        "riddle": "spotted",
+        "answers": "tilapia"
+    },
+    {
+        "riddle": "spreading tails",
+        "answers": "peacock"
+    },
+    {
+        "riddle": "spring",
+        "answers": "amaryllis, willow, peach blossom, begonia, tulip"
+    },
+    {
+        "riddle": "square",
+        "answers": "box"
+    },
+    {
+        "riddle": "starch",
+        "answers": "potato"
+    },
+    {
+        "riddle": "stealing",
+        "answers": "mouse"
+    },
+    {
+        "riddle": "steamed food",
+        "answers": "taro"
+    },
+    {
+        "riddle": "steel",
+        "answers": "helmet"
+    },
+    {
+        "riddle": "stench",
+        "answers": "skunk"
+    },
+    {
+        "riddle": "stinger",
+        "answers": "pufferfish"
+    },
+    {
+        "riddle": "stone",
+        "answers": "lizard"
+    },
+    {
+        "riddle": "storage",
+        "answers": "box, water tank"
+    },
+    {
+        "riddle": "straight",
+        "answers": "fishing rod, fishing pole"
+    },
+    {
+        "riddle": "stream",
+        "answers": "otter"
+    },
+    {
+        "riddle": "stripe",
+        "answers": "zebra"
+    },
+    {
+        "riddle": "summer",
+        "answers": "eggplant, zinnias, hydrangea"
+    },
+    {
+        "riddle": "summer night",
+        "answers": "firefly"
+    },
+    {
+        "riddle": "summer-relief fruits",
+        "answers": "watermelon"
+    },
+    {
+        "riddle": "sunbathing",
+        "answers": "seal"
+    },
+    {
+        "riddle": "supply",
+        "answers": "post station"
+    },
+    {
+        "riddle": "surface",
+        "answers": "desk"
+    },
+    {
+        "riddle": "surface mesh texture",
+        "answers": "cantaloupe"
+    },
+    {
+        "riddle": "sushi",
+        "answers": "tuna"
+    },
+    {
+        "riddle": "suspension",
+        "answers": "lantern, wind chimes"
+    },
+    {
+        "riddle": "swamp",
+        "answers": "crocodile, snake"
+    },
+    {
+        "riddle": "sweet",
+        "answers": "sugar bowl, peach"
+    },
+    {
+        "riddle": "sweet and sour",
+        "answers": "plum tree, tangerine"
+    },
+    {
+        "riddle": "sweet and sour food",
+        "answers": "candied haws"
+    },
+    {
+        "riddle": "sweet container",
+        "answers": "sugar bowl"
+    },
+    {
+        "riddle": "sweet foods",
+        "answers": "marshmallow"
+    },
+    {
+        "riddle": "sweet fruit",
+        "answers": "cantaloupe, watermelon"
+    },
+    {
+        "riddle": "swim",
+        "answers": "frog, dolphin"
+    },
+    {
+        "riddle": "swimming with wings",
+        "answers": "penguin"
+    },
+    {
+        "riddle": "sword leaf",
+        "answers": "tequila"
+    },
+    {
+        "riddle": "symbiosis",
+        "answers": "clownfish"
+    },
+    {
+        "riddle": "tableware",
+        "answers": "dishes"
+    },
+    {
+        "riddle": "tai chi",
+        "answers": "yin ang yang"
+    },
+    {
+        "riddle": "tail",
+        "answers": "tadpole"
+    },
+    {
+        "riddle": "tail docking",
+        "answers": "gecko"
+    },
+    {
+        "riddle": "tailhook",
+        "answers": "scorpion"
+    },
+    {
+        "riddle": "tall",
+        "answers": "chinese parasol"
+    },
+    {
+        "riddle": "tall and straight",
+        "answers": "pine"
+    },
+    {
+        "riddle": "taoism",
+        "answers": "yin and yang"
+    },
+    {
+        "riddle": "tea fragrance",
+        "answers": "jasmine"
+    },
+    {
+        "riddle": "tenacity",
+        "answers": "populus euphratica, elm"
+    },
+    {
+        "riddle": "thick velvet",
+        "answers": "yak"
+    },
+    {
+        "riddle": "thorn bush",
+        "answers": "rose"
+    },
+    {
+        "riddle": "thousands of miles",
+        "answers": "great wall"
+    },
+    {
+        "riddle": "time",
+        "answers": "hourglass"
+    },
+    {
+        "riddle": "timer",
+        "answers": "hourglass"
+    },
+    {
+        "riddle": "tool",
+        "answers": "sedan chair, rake"
+    },
+    {
+        "riddle": "tower",
+        "answers": "cypress"
+    },
+    {
+        "riddle": "traditional chinese medicine",
+        "answers": "licorice"
+    },
+    {
+        "riddle": "traditional martial arts",
+        "answers": "tai chi"
+    },
+    {
+        "riddle": "transfer station",
+        "answers": "post station"
+    },
+    {
+        "riddle": "transport",
+        "answers": "mule, donkey"
+    },
+    {
+        "riddle": "trees",
+        "answers": "longicorn/longhorned beetle, bonsai"
+    },
+    {
+        "riddle": "treetops",
+        "answers": "sloths"
+    },
+    {
+        "riddle": "tropical",
+        "answers": "parrot, jackfruit, piranhas"
+    },
+    {
+        "riddle": "tropical fruits",
+        "answers": "durian"
+    },
+    {
+        "riddle": "trumpet",
+        "answers": "morning glory"
+    },
+    {
+        "riddle": "tubers",
+        "answers": "taro"
+    },
+    {
+        "riddle": "turn head",
+        "answers": "owl"
+    },
+    {
+        "riddle": "tweet",
+        "answers": "cricket, crow, azalea"
+    },
+    {
+        "riddle": "two-handed weapons",
+        "answers": "bow and arrow"
+    },
+    {
+        "riddle": "umbrella",
+        "answers": "mushroom"
+    },
+    {
+        "riddle": "umbrella-shaped",
+        "answers": "reishi/ganoderma lucidum"
+    },
+    {
+        "riddle": "underground",
+        "answers": "peanut, earthworm, mole, potato"
+    },
+    {
+        "riddle": "upper limb exercise",
+        "answers": "archery"
+    },
+    {
+        "riddle": "upright",
+        "answers": "lucky bamboo, boxwood"
+    },
+    {
+        "riddle": "upright swimming",
+        "answers": "seahorse"
+    },
+    {
+        "riddle": "valley",
+        "answers": "vulture"
+    },
+    {
+        "riddle": "variant",
+        "answers": "tadpole"
+    },
+    {
+        "riddle": "variants",
+        "answers": "tadpole"
+    },
+    {
+        "riddle": "vegetable",
+        "answers": "spinach, tomato, lentils"
+    },
+    {
+        "riddle": "vegetable fields",
+        "answers": "celery"
+    },
+    {
+        "riddle": "vegetable garden",
+        "answers": "garlic scape, lettuce"
+    },
+    {
+        "riddle": "vegetables",
+        "answers": "lentils"
+    },
+    {
+        "riddle": "velvety soft",
+        "answers": "alpaca"
+    },
+    {
+        "riddle": "vine",
+        "answers": "wisteria"
+    },
+    {
+        "riddle": "vivid red",
+        "answers": "amaryllis"
+    },
+    {
+        "riddle": "wading",
+        "answers": "crested ibis"
+    },
+    {
+        "riddle": "waist",
+        "answers": "belt"
+    },
+    {
+        "riddle": "wall",
+        "answers": "gecko"
+    },
+    {
+        "riddle": "war spear",
+        "answers": "spear"
+    },
+    {
+        "riddle": "warm",
+        "answers": "campsis, cinnamon"
+    },
+    {
+        "riddle": "watch",
+        "answers": "peony flowers, bonsai"
+    },
+    {
+        "riddle": "water",
+        "answers": "dragonfly, hardy banana"
+    },
+    {
+        "riddle": "water spray",
+        "answers": "whale"
+    },
+    {
+        "riddle": "waters",
+        "answers": "capybara"
+    },
+    {
+        "riddle": "waterside",
+        "answers": "egret"
+    },
+    {
+        "riddle": "weapon",
+        "answers": "spear, sword"
+    },
+    {
+        "riddle": "wear",
+        "answers": "necklace"
+    },
+    {
+        "riddle": "web",
+        "answers": "fishing nets"
+    },
+    {
+        "riddle": "web gathering",
+        "answers": "fish basket"
+    },
+    {
+        "riddle": "webbed feet",
+        "answers": "platypus"
+    },
+    {
+        "riddle": "weight-bearing",
+        "answers": "turtle"
+    },
+    {
+        "riddle": "wetland",
+        "answers": "crested ibis"
+    },
+    {
+        "riddle": "wetlands",
+        "answers": "crested ibis"
+    },
+    {
+        "riddle": "whip shadow",
+        "answers": "whip"
+    },
+    {
+        "riddle": "whiskers",
+        "answers": "catfish"
+    },
+    {
+        "riddle": "white",
+        "answers": "calla lily, jasmine, rice"
+    },
+    {
+        "riddle": "white bird",
+        "answers": "egret"
+    },
+    {
+        "riddle": "white feather",
+        "answers": "egret"
+    },
+    {
+        "riddle": "white flower",
+        "answers": "pear tree, cauliflower"
+    },
+    {
+        "riddle": "white flowers",
+        "answers": "apricot, pear tree, cauliflower"
+    },
+    {
+        "riddle": "white gang qingye",
+        "answers": "chinese cabbage"
+    },
+    {
+        "riddle": "white hair",
+        "answers": "samoyed"
+    },
+    {
+        "riddle": "white meat",
+        "answers": "cod"
+    },
+    {
+        "riddle": "white skin",
+        "answers": "poplar"
+    },
+    {
+        "riddle": "whorled",
+        "answers": "plantain"
+    },
+    {
+        "riddle": "wilderness",
+        "answers": "hyena"
+    },
+    {
+        "riddle": "wind",
+        "answers": "wind chimes"
+    },
+    {
+        "riddle": "wind and sand",
+        "answers": "populus euphratica"
+    },
+    {
+        "riddle": "wine aroma",
+        "answers": "tequila"
+    },
+    {
+        "riddle": "winter flowers",
+        "answers": "plum blossom"
+    },
+    {
+        "riddle": "wooden",
+        "answers": "box, comb, desk, bed"
+    },
+    {
+        "riddle": "wool",
+        "answers": "sheep"
+    },
+    {
+        "riddle": "word",
+        "answers": "books"
+    },
+    {
+        "riddle": "wormhole",
+        "answers": "longicorn"
+    },
+    {
+        "riddle": "wrestling",
+        "answers": "sumo"
+    },
+    {
+        "riddle": "wrist ornament",
+        "answers": "bracelet"
+    },
+    {
+        "riddle": "write",
+        "answers": "desk"
+    },
+    {
+        "riddle": "yellow",
+        "answers": "potato, sweet potato, loquat"
+    },
+    {
+        "riddle": "yellow flower",
+        "answers": "chrysanthemum, sunflower"
+    },
+    {
+        "riddle": "yellow fruit",
+        "answers": "apricot"
+    },
+    {
+        "riddle": "yellow grains",
+        "answers": "corn"
+    },
+    {
+        "riddle": "yellow silky petals",
+        "answers": "chrysanthemum"
+    },
+    {
+        "riddle": "yellow-green",
+        "answers": "lemon, oriole"
+    }
+]
