@@ -3,10 +3,12 @@ require 'rtesseract'
 require 'mini_magick'
 
 # Constants
-SCREEN_REGION_WIDTH_RATIO = 0.4  # 40% of screen width
-SCREEN_REGION_HEIGHT_RATIO = 0.5 # 50% of screen height
-DEFAULT_CHECK_INTERVAL = 1.0     # seconds
-DEFAULT_OCR_PSM_MODE = 6         # PSM 6 = uniform block of text
+SCREEN_REGION_WIDTH_RATIO = 0.4         # 40% of screen width
+SCREEN_REGION_HEIGHT_RATIO = 0.10       # 15% of screen height
+SCREEN_REGION_LEFT_OFFSET_RATIO = 0.55  # 55% offset from left
+SCREEN_REGION_TOP_OFFSET_RATIO = 0.3    # 20% offset from top
+DEFAULT_CHECK_INTERVAL = 1.0            # seconds
+DEFAULT_OCR_PSM_MODE = 6                # PSM 6 = uniform block of text
 FALLBACK_SCREEN_WIDTH = 1920
 FALLBACK_SCREEN_HEIGHT = 1080
 
@@ -138,8 +140,8 @@ def capture_screen_center(center_width = nil, center_height = nil, debug = false
     # Capture region: middle row, columns 1-2 (left side, starting from 0%)
     region_width = center_width || (screen_width * SCREEN_REGION_WIDTH_RATIO).to_i
     region_height = center_height || (screen_height * SCREEN_REGION_HEIGHT_RATIO).to_i
-    left = 0
-    top = (screen_height * SCREEN_REGION_HEIGHT_RATIO).to_i
+    left = (screen_width * SCREEN_REGION_LEFT_OFFSET_RATIO).to_i
+    top = (screen_height * SCREEN_REGION_TOP_OFFSET_RATIO).to_i
     
     if debug
       puts "  Monitoring region: #{region_width}x#{region_height} pixels"
@@ -192,19 +194,7 @@ def find_clue_text_on_screen(screen_path, debug = false)
     text = extract_text_from_image(screen_path, DEFAULT_OCR_PSM_MODE)
     
     puts "  Extracted text: '#{text}'" if debug
-    
-    # Look for "Clue:" in the text
-    if text.downcase.include?("clue:")
-      clue_index = text.downcase.index("clue:")
-      riddle_text = text[clue_index + 5..-1].strip  # Get text after "Clue:"
-      riddle_text = riddle_text.split(/\n|\r/).first.strip  # Get first line only
-      riddle_text = riddle_text.split.join(' ')  # Normalize whitespace
-      
-      puts "  Found 'Clue:' at position #{clue_index}" if debug
-      puts "  Riddle text: '#{riddle_text}'" if debug
-      
-      return riddle_text unless riddle_text.empty?
-    end
+    return text unless text.empty?
     
     nil
   rescue => e
@@ -231,11 +221,6 @@ def monitor_screen(riddles_dict, check_interval = DEFAULT_CHECK_INTERVAL, center
   last_printed_answer = nil
   last_detected_riddle = nil
   
-  if center_width && center_height
-    puts "Region size: #{center_width}x#{center_height} pixels (custom)"
-  else
-    puts "Region size: #{SCREEN_REGION_WIDTH_RATIO * 100}% width x #{SCREEN_REGION_HEIGHT_RATIO * 100}% height (auto-calculated)"
-  end
   puts "Waiting for clue..."
   puts "Press Ctrl+C to stop\n"
   
@@ -312,15 +297,8 @@ end
 
 # Find matching riddle in dictionary (exact match or substring match)
 def find_matching_riddle(riddles_dict, detected_text)
-  # Try exact match first
+  # Try exact match
   return [detected_text, riddles_dict[detected_text]] if riddles_dict.key?(detected_text)
-  
-  # Try substring matching
-  riddles_dict.each do |riddle, answer|
-    if detected_text == riddle || detected_text.include?(riddle) || riddle.include?(detected_text)
-      return [riddle, answer]
-    end
-  end
   
   [nil, nil]
 end
